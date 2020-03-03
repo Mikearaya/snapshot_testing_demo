@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EventList Component should render correctly 1`] = `
+<div
+  className="container"
+>
+  <p>
+    
+  </p>
+  <span
+    className="start-date"
+  >
+     
+    
+  </span>
+  <p>
+    
+  </p>
+</div>
+`;

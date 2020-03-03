@@ -1,0 +1,25 @@
+.event-image {
+  width: 15em;
+  height: 15em;
+  border-color: chartreuse;
+}
+
+.container {
+  text-align: center !important;
+}
+
+.start-date {
+  display: block;
+  font-weight: 300;
+  text-align: left;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  display: inline;
+  float: left;
+  width: 32%;
+}
