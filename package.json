@@ -32,7 +32,7 @@
     ]
   },
   "devDependencies": {
-    "jest-transform-css": "^2.0.0",
+    "jest-transform-css": "^6.0.0",
     "react-test-renderer": "^16.13.0"
   }
 }
